@@ -23,8 +23,8 @@ El administrador podra crear una historia clinica segun la cantidad de usuarios 
 
 
 # Enlaces y Referencias
-[Cupertino Icons](https://pub.dev/packages/cupertino_icons)
-[Sql Lite](https://www.sqlite.org/)
+- [Cupertino Icons](https://pub.dev/packages/cupertino_icons)
+- [Sql Lite](https://www.sqlite.org/)
 
 
 
