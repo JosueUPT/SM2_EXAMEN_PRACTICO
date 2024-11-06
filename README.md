@@ -10,20 +10,20 @@ El usuario registrado podra visaulizar el historial clinico que se le asigno o c
 El usuario administrador profesional podra visualizar todos los historiales clinicos por paciente
 
 ## Profesional
-![image](https://github.com/user-attachments/assets/028a1d64-3932-424c-84e3-18ed9b192833)
+![alt text](image.png)
 
 ## Paciente 1
-![image](https://github.com/user-attachments/assets/45b33a18-abb3-4b53-b221-70051a0f5a01)
+![alt text](image-1.png)
 
 ## Paciente 2
-![image](https://github.com/user-attachments/assets/4d27765e-b1c7-402c-9f85-1773a287143d)
-
+![alt text](image-2.png)
 
 # Crear historia clinica
 El administrador podra crear una historia clinica segun la cantidad de usuarios que tengan o se han registrado como pacientes , es decir que el administrador podra visualizar y crear las historia clinicas
 
-![image](https://github.com/user-attachments/assets/a3daf6f3-ed13-494c-b757-e1dd415a5a51)
+![alt text](image-3.png)
 
+![alt text](image-4.png)
 
 # Enlaces y Referencias
 - [Cupertino Icons](https://pub.dev/packages/cupertino_icons)
